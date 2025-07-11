@@ -2,7 +2,7 @@
     "name": "no",
     "version": "1.0.0",
     "private": true,
-    "homepage": "https://senzy-cyber.github.io/no",
+    "homepage": "https://senzy-aura.github.io/no",
     "dependencies": {
       "react": "^18.2.0",
       "react-dom": "^18.2.0",
